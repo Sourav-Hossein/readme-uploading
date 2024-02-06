@@ -8,7 +8,7 @@ _italic text_
 **bold text**
 *italic text*
 ~~strikethrough text~~
-> This is a blockquote
+> This is a blockquote 
 >> This is a nested blockquote
 1. First item
 2. Second item  
