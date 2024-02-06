@@ -20,9 +20,12 @@ _italic text_
     - college
         - what is you name
 ### subscript  
-H~2~O  
+H~ 2 ~ O  
 ### super script
 (a+b)^2^=a^2^+2ab+b^2^  
 
 - this is ==highlighted== text
--hello
+-hello  
+##branch  
+    git branch /checkout/checkout -b name/branch -d name
+  
